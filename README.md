@@ -21,11 +21,11 @@
 (0: 'EOSINOPHIL', 1: 'LYMPHOCYTE', 2: 'MONOCYTE', 3: 'NEUTROPHIL')</br>
 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
-# KaggleProject-Brain Tumor Classification
+# KaggleProject-Brain_Tumor_Classification
 환자의 머리를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. </br>
 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
-# KaggleProject-Chest X-Ray Images (Pneumonia)
+# KaggleProject-Chest_X-Ray _mages (Pneumonia)
 환자의 흉부를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. </br>
 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
