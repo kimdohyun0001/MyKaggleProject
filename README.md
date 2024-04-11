@@ -17,16 +17,21 @@
 ---
 
 # KaggleProject_Blood_Cell
-혈액속의 혈구의 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
+혈액속의 혈구의 이미지를 학습하여 구분하는 프로젝트입니다. </br>
+(0: 'EOSINOPHIL', 1: 'LYMPHOCYTE', 2: 'MONOCYTE', 3: 'NEUTROPHIL')</br>
+해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
 # KaggleProject-Brain Tumor Classification
-환자의 머리를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
+환자의 머리를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. </br>
+해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
 # KaggleProject-Chest X-Ray Images (Pneumonia)
-환자의 흉부를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
+환자의 흉부를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. </br>
+해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
 # KaggleProject-COVID_19_Radiography
-환자의 흉부를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. 해당 프로젝트에 대한 자세한 내용과 자료는 [이곳](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
+환자의 흉부를 찍은 X-Ray 이미지를 학습하여 1, 2, 3, 4로 구분하는 프로젝트입니다. </br>
+해당 프로젝트에 대한 자세한 내용과 자료는 [이곳(Kaggle사이트)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)을 눌러주세요.
 
 
 
